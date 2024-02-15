@@ -24,3 +24,6 @@ learn how data analysis is done using MS Excel, creating a dashboard that helps 
   to retain and motivate them to purchase additional products.
 * Boost the number of offers or coupons available on multiple e-commerce platforms.
 * Closely monitoring inventory levels of Sets and Kurtas to meet customer demand.
+
+  
+[Uploading Vrinda Garment PPT.pptx…]()
