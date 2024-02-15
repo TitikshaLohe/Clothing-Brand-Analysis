@@ -25,5 +25,4 @@ learn how data analysis is done using MS Excel, creating a dashboard that helps 
 * Boost the number of offers or coupons available on multiple e-commerce platforms.
 * Closely monitoring inventory levels of Sets and Kurtas to meet customer demand.
 
-  
-[Uploading Vrinda Garment PPT.pptx…]()
+
