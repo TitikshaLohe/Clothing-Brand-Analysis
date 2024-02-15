@@ -23,6 +23,4 @@ learn how data analysis is done using MS Excel, creating a dashboard that helps 
 * Enhance marketing strategies to motivate women in the 30-49 age range. Provide additional benefits
   to retain and motivate them to purchase additional products.
 * Boost the number of offers or coupons available on multiple e-commerce platforms.
-
-
-
+* Closely monitoring inventory levels of Sets and Kurtas to meet customer demand.
