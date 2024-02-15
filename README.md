@@ -6,10 +6,15 @@ To provide valuable insights in making informed decisions about business strat
 Vrinda Garments wants to create an annual sales report for 2022. So that, Vrinda Store can understand its customers and grow more sales in 2023.
 
 ## Insights:
-* Women are more likely to buy compared to men(65%)
-* Maharashtra, Karnataka and Uttar Pradesh are top 3 states
-* Adult age group 30-49 year is contributing for maximum sales
-* 80% orders are made through Amazon
+* Highest number of sales and orders were recorded in March.
+* Women are more inclined to buy things than men (64%).
+* Orders based on age vs gender show Sets and Kurtas are highest selling 
+  categories.
+* The top three states include Maharashtra, Karnataka, and Uttar Pradesh.
+* Adults aged 30-49 years have contributed to maximum sales.
+* 80% of orders are made through the Amazon platform.
+  
+
 
 ## Recommendations:
 * Focus on other states to drive more sales and gain more customers by conducting segmented marketing.
