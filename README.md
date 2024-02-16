@@ -17,7 +17,10 @@ learn how data analysis is done using MS Excel, creating a dashboard that helps 
 * The top three states include Maharashtra, Karnataka, and Uttar Pradesh.
 * Adults aged 30-49 years have contributed to maximum sales.
 * 80% of orders are made through the Amazon platform.
-  
+
+
+  ![Excel dashboard](https://github.com/TitikshaLohe/Clothing-Brand-Analysis/assets/119863939/0dfc392b-c4ca-436c-a1d1-de1feeb5ffba)
+
 ## Recommendations:
 * Conduct segmented marketing to increase sales and gain more customers by focusing on other states.
 * Enhance marketing strategies to motivate women in the 30-49 age range. Provide additional benefits
