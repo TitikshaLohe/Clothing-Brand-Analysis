@@ -1,5 +1,5 @@
 # Clothing Brand Analysis
-
+I have analyzed the 'Vrinda Garments' store dataset and created a dashboard using Excel to gain insights that help in better decision-making.
 
 ## Problem Statement:
 To provide valuable insights in making informed decisions about business strategize, and understand the dynamics of sales and order patterns. 
